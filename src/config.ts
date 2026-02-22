@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Patricia Vergaray Corahua",
-  title: "Administradora Marítima y Portuaria | Logística Naval | SAP",
+  title: "Administradora Marítima y Portuaria | Logística Naval | Sertica",
   description:
     "Portfolio profesional de Patricia Vergaray Corahua — Licenciada en Administración Marítima y Portuaria con más de 14 años de experiencia en logística naviera, cadena de suministro y operaciones portuarias.",
 
@@ -24,14 +24,14 @@ export const siteConfig = {
   },
 
   aboutMe:
-    "Licenciada en Administración Marítima y Portuaria por la Escuela Nacional de Marina Mercante \"Almirante Miguel Grau\", con maestría en Administración Marítima y Portuaria por la Universidad Nacional del Callao. Más de 14 años de experiencia en Naviera Transoceanica S.A., empresa líder en transporte marítimo de hidrocarburos en el Perú. Especializada en gestión logística, planificación de cadena de suministro y operaciones portuarias. Manejo de SAP, inglés intermedio y formación continua en liderazgo, coaching e inteligencia emocional.",
+    "Licenciada en Administración Marítima y Portuaria por la Escuela Nacional de Marina Mercante \"Almirante Miguel Grau\", con maestría en Administración Marítima y Portuaria por la Universidad Nacional del Callao. Más de 14 años de experiencia en Naviera Transoceanica S.A., empresa líder en transporte marítimo de hidrocarburos en el Perú. Especializada en gestión logística, planificación de cadena de suministro y operaciones portuarias. Manejo de Sertica (sistema de gestión de flotas), inglés intermedio y formación continua en liderazgo, coaching e inteligencia emocional.",
 
   skills: [
     "Logística Naval",
     "Cadena de Suministro",
     "Administración Marítima",
     "Operaciones Portuarias",
-    "SAP",
+    "Sertica",
     "Gestión de Compras",
     "Planificación Logística",
     "Liderazgo",
@@ -45,9 +45,9 @@ export const siteConfig = {
     {
       name: "Gestión Logística - Naviera Transoceanica",
       description:
-        "Gestión integral de la cadena de suministro para la flota de transporte marítimo de hidrocarburos, incluyendo planificación de compras, coordinación con proveedores y control de inventarios mediante SAP.",
+        "Gestión integral de la cadena de suministro para la flota de transporte marítimo de hidrocarburos, incluyendo planificación de compras, coordinación con proveedores y control de inventarios mediante Sertica.",
       link: "",
-      skills: ["Logística", "SAP", "Cadena de Suministro"],
+      skills: ["Logística", "Sertica", "Cadena de Suministro"],
     },
     {
       name: "Operaciones Portuarias - ENAPU S.A.",
@@ -72,7 +72,7 @@ export const siteConfig = {
       dateRange: "Feb 2011 - Presente",
       bullets: [
         "Gestión de la cadena de suministro para flota de transporte marítimo de hidrocarburos",
-        "Planificación y control de compras e inventarios mediante sistema SAP",
+        "Planificación y control de compras e inventarios mediante sistema Sertica",
         "Coordinación con proveedores nacionales e internacionales",
         "Soporte logístico en operaciones de buques tanque y GLP",
       ],
@@ -117,10 +117,18 @@ export const siteConfig = {
     },
     {
       school: "Escuela Nacional de Marina Mercante \"Almirante Miguel Grau\"",
-      degree: "Licenciatura en Administración Marítima y Portuaria",
-      dateRange: "2005 - 2009",
+      degree: "Bachiller y Licenciatura en Administración Marítima y Portuaria",
+      dateRange: "2005 - 2010",
       achievements: [
         "Formación integral en administración del transporte y comercio marítimo",
+      ],
+    },
+    {
+      school: "Universidad ESAN / ESAN Graduate School of Business",
+      degree: "PADE Internacional en Operaciones y Logística",
+      dateRange: "Abr 2016 - May 2017",
+      achievements: [
+        "Programa de Alta Dirección en operaciones y logística internacional",
       ],
     },
     {
